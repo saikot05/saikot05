@@ -16,28 +16,55 @@
 
 ## 👨‍💻 About Me
 
+<table>
+<tr>
+<td valign="top" width="58%">
+
 I am a passionate **Full-Stack Web Developer** and final-year **Computer Science & Engineering** student at **RUET**. My expertise lies in building production-grade, pixel-perfect web applications with highly secure user authentication systems. Blending my background in **Competitive Programming** with modern web standards, I specialize in engineering data-driven, optimized backend services and seamless user interfaces.
 
 * 🎓 **Current Focus:** Enterprise-level web architecture using the Next.js App Router paradigm.
 * 🔒 **Security-First Mindset:** Proficient in designing advanced authentication workflows utilizing stateless tokens and verification layers.
 * 🧠 **Problem Solving:** Actively optimizing algorithmic workflows through rigorous structure analysis and clean code paradigms.
+* 💬 Ask me about: **JavaScript (ES6+), C/C++, Node.js, and MongoDB**
+* 📫 Reach me directly at: **saikotislam08@gmail.com**
+* 😄 Fun fact: I debug production code faster than I write it!
+
+</td>
+<td valign="top" width="42%">
+
+<img src="https://raw.githubusercontent.com/saikot05/saikot05/main/10_coding_dribbble.gif" width="100%" />
+
+<br/>
+
+### ❤️ Core Vectors
+* 💻 Full-Stack Enterprise Platforms
+* 🧩 Complex Engineering Problems
+* 🎯 Next-Gen Security Frameworks
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📊 Performance Metrics & Activity
 
 <p align="center">
+  <!-- Verified Streak Card -->
   <a href="https://github.com/saikot05">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=saikot05&theme=tokyonight&hide_border=true" alt="Saikot's GitHub Streak" height="150" />
   </a>
+  
+  <!-- High-Availability Mirror Stats Card -->
   <a href="https://github.com/saikot05">
-    <img src="https://github-readme-stats.vercel.app/api?username=saikot05&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" alt="Saikot's GitHub Stats" height="150" />
+    <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=saikot05&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" alt="Saikot's GitHub Stats" height="150" />
   </a>
 </p>
 
 <p align="center">
+  <!-- High-Availability Mirror Top Languages Card -->
   <a href="https://github.com/saikot05">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikot05&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="140" />
+    <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=saikot05&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="140" />
   </a>
 </p>
 
