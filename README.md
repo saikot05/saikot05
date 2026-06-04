@@ -50,21 +50,21 @@ I am a passionate **Full-Stack Web Developer** and final-year **Computer Science
 ## 📊 Performance Metrics & Activity
 
 <p align="center">
-  <!-- Verified Streak Card -->
+  <!-- Highly Reliable GitHub Streak Card -->
   <a href="https://github.com/saikot05">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=saikot05&theme=tokyonight&hide_border=true" alt="Saikot's GitHub Streak" height="150" />
   </a>
   
-  <!-- High-Availability Mirror Stats Card -->
+  <!-- Bulletproof Alternative Profile Stats Card -->
   <a href="https://github.com/saikot05">
-    <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=saikot05&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" alt="Saikot's GitHub Stats" height="150" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saikot05&theme=tokyonight" alt="Saikot's GitHub Stats" height="150" />
   </a>
 </p>
 
 <p align="center">
-  <!-- High-Availability Mirror Top Languages Card -->
+  <!-- Bulletproof Alternative Top Languages Pie-Chart -->
   <a href="https://github.com/saikot05">
-    <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=saikot05&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="140" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saikot05&theme=tokyonight" alt="Top Languages" height="150" />
   </a>
 </p>
 
