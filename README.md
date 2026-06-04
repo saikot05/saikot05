@@ -14,6 +14,16 @@
 
 ---
 
+## 👨‍💻 About Me
+
+I am a passionate **Full-Stack Web Developer** and final-year **Computer Science & Engineering** student at **RUET**. My expertise lies in building production-grade, pixel-perfect web applications with highly secure user authentication systems. Blending my background in **Competitive Programming** with modern web standards, I specialize in engineering data-driven, optimized backend services and seamless user interfaces.
+
+* 🎓 **Current Focus:** Enterprise-level web architecture using the Next.js App Router paradigm.
+* 🔒 **Security-First Mindset:** Proficient in designing advanced authentication workflows utilizing stateless tokens and verification layers.
+* 🧠 **Problem Solving:** Actively optimizing algorithmic workflows through rigorous structure analysis and clean code paradigms.
+
+---
+
 ## 📊 Performance Metrics & Activity
 
 <p align="center">
@@ -41,6 +51,7 @@
 
 ```js
 const engineeringProfile = {
+  pronouns: "he/him",
   coreSkills: {
     languages: ["JavaScript (ES6+)", "C++", "C", "Python"],
     frontend: ["Next.js (App Router)", "React.js", "Tailwind CSS", "DaisyUI", "HeroUI"],
@@ -54,5 +65,6 @@ const engineeringProfile = {
   toolsAndDeployment: {
     workflow: ["Git", "GitHub Version Control", "NPM"],
     designAndHosting: ["Figma (UI/UX Engineering)", "Vercel Continuous Deployment"]
-  }
+  },
+  challenge: "Building secure, high-performance, and pixel-perfect applications 🚀"
 };
