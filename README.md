@@ -23,8 +23,8 @@
 ### 🙋‍♂️ Personal Stuff:
 
 - 🎓 CSE Student @ **RUET** (CGPA: 3.78)
-- 🚀 Specialized in **Next.js 14+, React.js, and Full-Stack Development**
-- 🌱 Expert in secure auth architectures (**BetterAuth, JWT, OAuth**)
+- 🚀 Specialized in **Next.js, React.js, and Full-Stack Development**
+- 🌱 Expert in secure auth architectures (**BetterAuth, JWT, Google OAuth**)
 - 🏆 Active Competitive Programmer (Data Structures & Algorithms)
 - 🤖 Artificial Intelligence & Machine Learning Enthusiast
 - 💬 Ask me about **JavaScript (ES6+), C/C++, Node.js, MongoDB**
@@ -50,7 +50,7 @@
 ## 🛠️ Languages & Frameworks & Tools 🔥
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,react,nextjs,nodejs,express,mongodb,tailwind,bootstrap,firebase,git,github,vscode&perline=5" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,react,nextjs,nodejs,express,mongodb,tailwind,figma,vercel,git,github,vscode&perline=6" />
 </p>
 
 ```js
@@ -59,10 +59,11 @@ const saikot = {
   education: "CSE @ RUET",
   currentCGPA: "3.78 / 4.00",
   code: ["JavaScript (ES6+)", "C", "C++", "Python"],
-  frameworks: ["Next.js 14+", "React.js", "Node.js", "Express.js"],
+  frameworks: ["Next.js", "React.js", "Node.js", "Express.js"],
   databases: ["MongoDB Atlas (Cloud Database)"],
-  securityAndAuth: ["BetterAuth", "JWT", "Firebase Auth", "JWKS"],
-  styling: ["Tailwind CSS", "DaisyUI", "HeroUI", "Bootstrap"],
+  securityAndAuth: ["BetterAuth", "JSON Web Token (JWT)", "Google Auth", "JWKS"],
+  styling: ["Tailwind CSS", "DaisyUI", "HeroUI"],
+  designAndDeployment: ["Figma", "Vercel"],
   tools: ["Git", "GitHub", "NPM", "VS Code"],
   interests: ["Full-Stack Development", "Competitive Programming", "AI/ML Enthusiast"],
   challenge: "Building secure, high-performance, and pixel-perfect applications 🚀"
