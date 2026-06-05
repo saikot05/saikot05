@@ -1,18 +1,24 @@
+<!-- TOP BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Md%20Saikot%20Islam&fontSize=50&fontAlignY=35&desc=Full-Stack%20Web%20Developer%20%7C%20Software%20Engineer&descAlignY=55&descAlign=50" />
+  <img src="https://i.ibb.co/v4b4fHz/saikot-dev-banner.png" alt="Md Saikot Islam - Full-Stack Developer Banner" width="100%" />
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saikot05&label=Profile%20Views&color=0e75b6&style=flat" alt="saikot05" />
-</p>
+<br />
 
-<p align="center">
+<!-- VISITOR COUNTER & DYNAMIC TYPING EFFECT -->
+<div align="center">
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=saikot05&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  
+  <br />
+  
+  <!-- Typing SVG Animation -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer+%F0%9F%9A%80;Next.js+%26+React+Specialist+%E2%9A%9B%EF%B8%8F;CSE+Student+%40+RUET+%F0%9F%8E%93;Competitive+Programmer+%F0%9F%8F%86;Building+Secure%2C+Scalable+Apps+%F0%9F%94%92" alt="Typing SVG" />
   </a>
-</p>
+</div>
 
----
+<hr />
 
 ## 👨‍💻 About Me
 
