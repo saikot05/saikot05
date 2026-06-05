@@ -85,49 +85,26 @@ const stack = {
 
 ---
 
-
-## 📊 GitHub Streak
-
-
+## 📊 Performance Metrics & Activity
 
 <p align="center">
-
   <!-- Highly Reliable GitHub Streak Card -->
-
   <a href="https://github.com/saikot05">
-
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=saikot05&theme=tokyonight&hide_border=true" alt="Saikot's GitHub Streak" height="150" />
-
   </a>
-
   
-
   <!-- Bulletproof Alternative Profile Stats Card -->
-
   <a href="https://github.com/saikot05">
-
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saikot05&theme=tokyonight" alt="Saikot's GitHub Stats" height="150" />
-
   </a>
-
 </p>
-
-
 
 <p align="center">
-
   <!-- Bulletproof Alternative Top Languages Pie-Chart -->
-
   <a href="https://github.com/saikot05">
-
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saikot05&theme=tokyonight" alt="Top Languages" height="150" />
-
   </a>
-
 </p>
-
-
-
 --- 
 
 
