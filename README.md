@@ -73,7 +73,7 @@ I am a passionate **Full-Stack Web Developer** and second-year **Computer Scienc
 ## 🛠️ Tech Stack & Core Competencies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,mongodb,tailwind,figma,vercel,js,python,cpp,c,git,github,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,mongodb,tailwind,figma,vercel,netlify,js,python,cpp,c,git,github,vscode&perline=8" />
 </p>
 
 ```js
