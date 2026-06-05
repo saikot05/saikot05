@@ -44,6 +44,95 @@
   </tr>
 </table>
 
+
+---
+
+## 🛠️ Languages and Tools
+
+
+
+<div align="center">
+
+  <!-- Core Languages & Frameworks -->
+
+  <img src="https://skillicons.dev/icons?i=js,cpp,c,python,nextjs,react,nodejs,express&perline=8" alt="Languages and Frameworks" />
+
+  <br />
+
+  <!-- Database, UI, Tools & Deployment -->
+
+  <img src="https://skillicons.dev/icons?i=mongodb,tailwind,git,github,vscode,figma,vercel,netlify&perline=8" alt="Databases and Tools" />
+
+</div>
+
+
+
+<br />
+
+
+
+---
+
+
+
+## 📊 Github Streak
+
+
+
+<div align="center">
+
+  <table border="0" cellspacing="0" cellpadding="0">
+
+    <tr>
+
+      <td align="center" valign="middle">
+
+        <a href="https://github.com/saikot05">
+
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=saikot05&theme=tokyonight&hide_border=true" alt="Saikot's GitHub Streak" height="165" />
+
+        </a>
+
+      </td>
+
+      <td align="center" valign="middle">
+
+        <a href="https://github.com/saikot05">
+
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saikot05&theme=tokyonight" alt="Saikot's GitHub Stats" height="165" />
+
+        </a>
+
+      </td>
+
+    </tr>
+
+    <tr>
+
+      <td align="center" valign="middle" colspan="2">
+
+        <br />
+
+        <a href="https://github.com/saikot05">
+
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saikot05&theme=tokyonight" alt="Top Languages" height="165" />
+
+        </a>
+
+      </td>
+
+    </tr>
+
+  </table>
+
+</div>
+
+
+
+<br />
+
+
+
 ---
 
 ```js
