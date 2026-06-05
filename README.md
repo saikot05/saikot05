@@ -21,7 +21,7 @@
 <!-- DYNAMIC TYPING EFFECT -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&height=50&lines=Full-Stack+Web+Developer+%F0%9F%9A%80;Next.js+%26+React+Specialist+%E2%9A%9B%EF%B8%8F;CSE+Student+%40+RUET+%F0%9F%8E%93;Competitive+Programmer+%F0%9F%8F%86;Building+Secure%2C+Scalable+Apps+%F0%9F%94%92" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&height=50&lines=Full-Stack+Web+Developer+%F0%9F%9A%80;Next.js+%26+React+Specialist+%E2%9A%9B%EF%B8%8F;CSE+Student+%40+RUET+%F0%9F%8E%93;Building+Secure%2C+Scalable+Apps+%F0%9F%94%92;Optimizing+Full-Stack+Architectures+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
   </a>
 </div>
 
@@ -29,93 +29,68 @@
 
 <!-- BRIEF INTRODUCTION -->
 <div align="center">
-  <h3>👋 Hello, World! Welcome to my digital space.</h3>
+  <h3>👋 Hello, World! Welcome to my engineering space.</h3>
   <p align="center">
-    I am a passionate software engineer focused on building robust, scalable, and user-centric web applications. <br />
-    Constantly exploring new technologies, solving algorithmic puzzles, and turning complex problems into elegant code.
+    I am a Full-Stack Developer specializing in building end-to-end, high-performance web systems. <br />
+    Bridging robust, secure server-side logic with interactive, responsive, pixel-perfect user interfaces.
   </p>
 </div>
 
 <hr />
 
-## 👨‍💻 About Me
+## 👨‍💻 Engineering Profile
 
-<table>
-<tr>
-<td valign="top" width="58%">
-
-I am a passionate **Full-Stack Web Developer** and second-year **Computer Science & Engineering** student at **RUET**. My expertise lies in building production-grade, pixel-perfect web applications with highly secure user authentication systems. Blending my background in **Competitive Programming** with modern web standards, I specialize in engineering data-driven, optimized backend services and seamless user interfaces.
-
-* 🎓 **Current Focus:** Enterprise-level web architecture using the Next.js App Router paradigm.
-* 🔒 **Security-First Mindset:** Proficient in designing advanced authentication workflows utilizing stateless tokens and verification layers.
-* 🧠 **Problem Solving:** Actively optimizing algorithmic workflows through rigorous structure analysis and clean code paradigms.
-* 💬 Ask me about: **JavaScript (ES6+), C/C++, Node.js, and MongoDB**
-* 📫 Reach me directly at: **saikotislam08@gmail.com**
-* 😄 Fun fact: I debug production code faster than I write it!
-
-</td>
-<td valign="top" width="42%">
-
-<img src="https://raw.githubusercontent.com/saikot05/saikot05/main/10_coding_dribbble.gif" width="100%" />
-
-<br/>
-
-### ❤️ Core Vectors
-* 💻 Full-Stack Enterprise Platforms
-* 🧩 Complex Engineering Problems
-* 🎯 Next-Gen Security Frameworks
-
-</td>
-</tr>
+<table border="0">
+  <tr>
+    <td valign="top" width="62%">
+      <p>I am a <strong>Full-Stack Software Engineer</strong> and Computer Science & Engineering student at <strong>RUET</strong>. I specialize in designing, developing, and deploying enterprise-grade applications, utilizing modern architectural patterns to ensure scalability and speed.</p>
+      <p>With a foundation rooted deep in <strong>Data Structures, Algorithms, and Competitive Programming</strong>, I write predictable, efficient, and well-documented code across every layer of the software development lifecycle.</p>
+      <ul>
+        <li>🚀 <strong>Frontend Mastery:</strong> Interactive architectures using Next.js (App Router), React, and atomic UI frameworks.</li>
+        <li>⚙️ <strong>Backend Engineering:</strong> Scalable RESTful API development using Node.js, Express, and structured MongoDB schemas.</li>
+        <li>🔒 <strong>Security Systems:</strong> Advanced authorization mechanics utilizing BetterAuth, stateless JWT, Google OAuth, and cryptographic verification.</li>
+        <li>📫 <strong>Direct Channel:</strong> <a href="mailto:saikotislam08@gmail.com">saikotislam08@gmail.com</a></li>
+      </ul>
+    </td>
+    <td valign="top" width="38%" align="center">
+      <img src="https://raw.githubusercontent.com/saikot05/saikot05/main/10_coding_dribbble.gif" width="100%" style="border-radius: 8px;" />
+      <br />
+      <br />
+      <div align="left" style="padding-left: 10px;">
+        <h4>🎯 Production Focus</h4>
+        • System Architecture Design<br />
+        • Database Optimization<br />
+        • Stateless Auth Workflows
+      </div>
+    </td>
+  </tr>
 </table>
 
 ---
 
-## 📊 Performance Metrics & Activity
+## 🛠️ Ecosystem & Technical Competencies
 
-<p align="center">
-  <!-- Highly Reliable GitHub Streak Card -->
-  <a href="https://github.com/saikot05">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=saikot05&theme=tokyonight&hide_border=true" alt="Saikot's GitHub Streak" height="150" />
-  </a>
-  
-  <!-- Bulletproof Alternative Profile Stats Card -->
-  <a href="https://github.com/saikot05">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saikot05&theme=tokyonight" alt="Saikot's GitHub Stats" height="150" />
-  </a>
-</p>
+<div align="center">
+  <!-- Core Stack -->
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,mongodb,tailwind,js,cpp&perline=8" alt="Core Tech Stack" />
+  <br />
+  <!-- Auxiliary Tools & Infrastructure -->
+  <img src="https://skillicons.dev/icons?i=python,c,git,github,vscode,figma,vercel,netlify&perline=8" alt="Tools and Infrastructure" />
+</div>
 
-<p align="center">
-  <!-- Bulletproof Alternative Top Languages Pie-Chart -->
-  <a href="https://github.com/saikot05">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saikot05&theme=tokyonight" alt="Top Languages" height="150" />
-  </a>
-</p>
-
----
-
-## 🛠️ Tech Stack & Core Competencies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,mongodb,tailwind,figma,vercel,netlify,js,python,cpp,c,git,github,vscode&perline=8" />
-</p>
+<br />
 
 ```js
-const engineeringProfile = {
-  pronouns: "he/him",
-  coreSkills: {
-    languages: ["JavaScript (ES6+)", "C++", "C", "Python"],
-    frontend: ["Next.js (App Router)", "React.js", "Tailwind CSS", "DaisyUI", "HeroUI"],
-    backend: ["Node.js", "Express.js"],
-    databases: ["MongoDB / MongoDB Atlas Cloud"]
+const saikotDev = {
+  stack: {
+    frontend:  ["Next.js (App Router)", "React.js", "Tailwind CSS", "HeroUI / DaisyUI"],
+    backend:   ["Node.js", "Express.js", "RESTful API Architecture"],
+    database:  ["MongoDB", "Mongoose ODM", "Atlas Cloud Storage Optimization"]
   },
-  architectureAndSecurity: {
-    authentication: ["BetterAuth", "JSON Web Tokens (JWT)", "Google OAuth", "JWKS"],
-    principles: ["RESTful APIs", "State Management", "Secure Auth Workflows", "Data Structures & Algorithms"]
+  security: {
+    protocols: ["BetterAuth", "JSON Web Tokens (JWT)", "Google OAuth 2.0", "JWKS / Stateless Verification"],
+    practices: ["Cross-Origin Resource Sharing (CORS)", "Payload Sanitization", "Secure Cookies"]
   },
-  toolsAndDeployment: {
-    workflow: ["Git", "GitHub Version Control", "NPM"],
-    designAndHosting: ["Figma (UI/UX Engineering)", "Vercel Continuous Deployment"]
-  },
-  challenge: "Building secure, high-performance, and pixel-perfect applications 🚀"
+  foundations: ["Data Structures & Algorithms", "System Design", "Version Control (Git/GitHub)"],
+  runtimeMission: "Translating architectural blueprints into maintainable production systems 💻"
 };
