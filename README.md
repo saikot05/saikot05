@@ -12,6 +12,14 @@
   <a href="mailto:saikotislam08@gmail.com">
     <img src="https://img.shields.io/badge/Email-saikotislam08@gmail.com-2c5364?style=flat-square&logo=gmail&logoColor=white" />
   </a>
+  &nbsp;
+  <a href="https://codeforces.com/profile/Saikot1741">
+    <img src="https://img.shields.io/badge/Codeforces-Saikot1741-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.codechef.com/users/saikot_05">
+    <img src="https://img.shields.io/badge/CodeChef-saikot__05-5B4638?style=flat-square&logo=codechef&logoColor=white" />
+  </a>
 </p>
 
 <!-- TYPING BANNER -->
@@ -37,6 +45,7 @@ JWT, and Google OAuth 2.0.
 Competitive programming on **Codeforces** and **CodeChef** sharpens the
 algorithmic thinking behind every system I build.
 
+- ⚔️ **Competitive programming:** [Codeforces — Saikot1741](https://codeforces.com/profile/Saikot1741) · [CodeChef — saikot_05](https://www.codechef.com/users/saikot_05)
 - 🎯 **Open to:** Internships, junior developer roles, open-source collaboration
 - 📬 **Contact:** [saikotislam08@gmail.com](mailto:saikotislam08@gmail.com)
 
@@ -85,10 +94,17 @@ const stack = {
 ## GitHub Activity
 
 <p align="center">
+ <!-- Highly Reliable GitHub Streak Card -->
   <a href="https://github.com/saikot05">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=saikot05&theme=tokyonight&hide_border=true" alt="Saikot's GitHub Streak" height="150" />
   </a>
-  &nbsp;
+ <!-- Bulletproof Alternative Profile Stats Card -->
+  <a href="https://github.com/saikot05">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saikot05&theme=tokyonight" alt="Saikot's GitHub Stats" height="150" />
+  </a>
+</p>
+<p align="center">
+  <!-- Bulletproof Alternative Top Languages Pie-Chart -->
   <a href="https://github.com/saikot05">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saikot05&theme=tokyonight" alt="Top Languages" height="150" />
   </a>
