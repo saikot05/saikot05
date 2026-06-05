@@ -1,123 +1,106 @@
 <!-- TOP BANNER -->
 <div align="center">
-  <img src="./bannar.png" alt="Md Saikot Islam - Full-Stack Developer Banner" width="100%" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2a3a,100:2c5364&height=180&section=header&text=Md%20Saikot%20Islam&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Next.js%20%C2%B7%20React%20%C2%B7%20Node.js%20%C2%B7%20MongoDB&descAlignY=58&descSize=15&descColor=99bbcc"
+    width="100%"
+  />
 </div>
 
-<br />
+<br/>
 
-<!-- DYNAMIC TYPING EFFECT -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&height=50&lines=Full-Stack+Web+Developer+%F0%9F%9A%80;Next.js+%26+MERN+Specialist+%E2%9A%9B%EF%B8%8F;CSE+Undergrad+%40+RUET+%F0%9F%8E%93;Building+Secure%2C+Scalable+Apps+%F0%9F%94%92" alt="Typing SVG" />
+<!-- PROFILE VIEWS + EMAIL BADGE -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saikot05&label=Profile+Views&color=2c5364&style=flat-square" />
+  &nbsp;
+  <a href="mailto:saikotislam08@gmail.com">
+    <img src="https://img.shields.io/badge/Email-saikotislam08@gmail.com-2c5364?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-</div>
+</p>
 
-<hr />
+<!-- TYPING BANNER -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=5599bb&center=true&vCenter=true&width=620&height=45&lines=Full-Stack+Engineer+%7C+Next.js+%2F+MERN;Open+to+internships+%26+junior+roles;Competitive+programmer+on+Codeforces+%26+CodeChef" />
+</p>
 
-## 👨‍💻 Technical Profile
+---
+
+## About
+
+CSE undergrad at **RUET** building full-stack web applications with a focus on
+secure authentication, clean architecture, and real-world deployment.
 
 <table border="0">
-  <tr>
-    <td valign="top" width="65%">
-      <p>I am a <strong>Full-Stack Software Engineer</strong> and Computer Science & Engineering undergraduate at <strong>RUET</strong>. I specialize in the <strong>MERN / Next.js ecosystem</strong>, focusing on building clean, high-performance web applications with secure backend architectures.</p>
-      <p>Leveraging a strong foundation in <strong>Data Structures, Algorithms (DSA), and Competitive Programming</strong>, I focus on writing maintainable, optimized code across both client and server-side layers.</p>
-      <ul>
-        <li>🚀 <strong>Frontend:</strong> Highly interactive SPAs and SSR apps using Next.js (App Router), React, and Tailwind CSS.</li>
-        <li>⚙️ <strong>Backend:</strong> Scalable RESTful API engineering using Node.js, Express.js, and structured MongoDB/Mongoose schemas.</li>
-        <li>🔒 <strong>Security:</strong> Implementing robust authorization mechanics (BetterAuth, JWT, Google OAuth 2.0, and secure token workflows).</li>
-        <li>🎯 <strong>Availability:</strong> Open to internships, junior developer roles, and open-source collaboration.</li>
-      </ul>
-      <p>📫 <strong>Let's Connect:</strong> <a href="mailto:saikotislam08@gmail.com">saikotislam08@gmail.com</a></p>
-    </td>
-    <td valign="top" width="35%" align="center">
-      <img src="https://raw.githubusercontent.com/saikot05/saikot05/main/10_coding_dribbble.gif" width="100%" style="border-radius: 8px;" />
-      <br />
-      <br />
-      <div align="left" style="padding-left: 15px;">
-        <h4>🔑 Core Competencies</h4>
-        • API Design & Integration<br />
-        • Authentication Security<br />
-        • Database Optimization<br />
-        • OOP & Algorithmic Logic
-      </div>
-    </td>
-  </tr>
+<tr>
+<td valign="top" width="65%">
+
+I specialize in the **MERN / Next.js** ecosystem — from Next.js App Router and
+REST API design to MongoDB schema modeling and auth workflows with Better Auth,
+JWT, and Google OAuth 2.0.
+
+Competitive programming on **Codeforces** and **CodeChef** sharpens the
+algorithmic thinking behind every system I build.
+
+- 🎯 **Open to:** Internships, junior developer roles, open-source collaboration
+- 📬 **Contact:** [saikotislam08@gmail.com](mailto:saikotislam08@gmail.com)
+
+</td>
+<td valign="top" width="35%" align="center">
+
+<img src="https://raw.githubusercontent.com/saikot05/saikot05/main/10_coding_dribbble.gif" width="100%" style="border-radius:8px" />
+
+</td>
+</tr>
 </table>
 
-
 ---
 
-## 🛠️ Languages and Tools
-
-
+## Tech Stack
 
 <div align="center">
-
-  <!-- Core Languages & Frameworks -->
-
-  <img src="https://skillicons.dev/icons?i=js,cpp,c,python,nextjs,react,nodejs,express&perline=8" alt="Languages and Frameworks" />
-
-  <br />
-
-  <!-- Database, UI, Tools & Deployment -->
-
-  <img src="https://skillicons.dev/icons?i=mongodb,tailwind,git,github,vscode,figma,vercel,netlify&perline=8" alt="Databases and Tools" />
-
+  <img src="https://skillicons.dev/icons?i=js,cpp,python,nextjs,react,nodejs,express,mongodb&perline=8" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=tailwind,git,vercel,figma,vscode,github&perline=8" />
 </div>
 
-
-
-<br />
-
-
-
----
-
-
-
-
+<br/>
 
 ```js
-const candidateProfile = {
-  identity: {
-    name: "Md Saikot Islam",
-    role: "Junior Full-Stack Developer",
-    education: "B.Sc. in Computer Science & Engineering @ RUET"
-  },
-  technicalStack: {
-    languages:  ["JavaScript (ES6+)", "C++", "C", "Python"],
-    frontend:   ["Next.js (App Router)", "React.js", "Tailwind CSS", "HeroUI / DaisyUI"],
-    backend:    ["Node.js", "Express.js", "RESTful APIs"],
-    databases:  ["MongoDB", "Mongoose ODM", "Atlas Cloud Storage"]
-  },
-  securityImplementations: [
-    "BetterAuth", "JSON Web Tokens (JWT)", "Google OAuth 2.0", "CORS Configuration"
-  ],
-  methodologies: [
-    "Data Structures & Algorithms", "Version Control (Git/GitHub)", "CI/CD Deployment (Vercel)"
-  ]
+const stack = {
+  frontend  : ["Next.js (App Router)", "React.js", "Tailwind CSS", "DaisyUI", "HeroUI"],
+  backend   : ["Node.js", "Express.js", "RESTful APIs"],
+  database  : ["MongoDB", "Mongoose ODM", "Atlas Cloud"],
+  auth      : ["Better Auth", "JWT", "Google OAuth 2.0"],
+  languages : ["JavaScript (ES6+)", "C++", "C", "Python"],
 };
 ```
+
 ---
-## 📊 GitHub Streak
+
+## Featured Projects
+
+| Project | Stack | Live |
+|---------|-------|------|
+| **[DriveFleet](https://github.com/saikot05/drivefleet)** — Car rental platform with role-based auth, booking flow, and violet/purple UI | Next.js · MongoDB · Better Auth · DaisyUI | [▶ Demo](#) |
+| **[SunCart](https://github.com/saikot05/suncart)** — E-commerce app with Google OAuth, product pages, and cart | Next.js · MongoDB · HeroUI · Vercel | [▶ Demo](#) |
+| **[LifeLine](https://github.com/saikot05/lifeline)** — Blood donation platform with donor feed and appointment booking | Django REST · React · JWT | [▶ Demo](#) |
+
+---
+
+## GitHub Activity
 
 <p align="center">
-  <!-- Highly Reliable GitHub Streak Card -->
   <a href="https://github.com/saikot05">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=saikot05&theme=tokyonight&hide_border=true" alt="Saikot's GitHub Streak" height="150" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=saikot05&theme=dark&hide_border=true&background=0D1117&ring=2c5364&fire=5599bb&currStreakLabel=ffffff" height="160" />
   </a>
-  
-  <!-- Bulletproof Alternative Profile Stats Card -->
+  &nbsp;
   <a href="https://github.com/saikot05">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saikot05&theme=tokyonight" alt="Saikot's GitHub Stats" height="150" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saikot05&theme=github_dark" height="160" />
   </a>
 </p>
 
-<p align="center">
-  <!-- Bulletproof Alternative Top Languages Pie-Chart -->
-  <a href="https://github.com/saikot05">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saikot05&theme=tokyonight" alt="Top Languages" height="150" />
-  </a>
-</p>
-
 ---
+
+<!-- FOOTER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0d1117&height=90&section=footer" />
+</div>
