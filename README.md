@@ -5,18 +5,15 @@
 
 <br />
 
-<!-- BADGES & METRICS -->
+
+<!-- DYNAMIC TYPING EFFECT -->
 <div align="center">
-  <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=saikot05&label=PROFILE+VIEWS&color=00C2FF&style=for-the-badge&logo=github" alt="Profile Views" />
-  
-  &nbsp;&nbsp;
-  
-  <!-- Custom Status Badge -->
-  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20OPPORTUNITIES-brightgreen?style=for-the-badge" alt="Status" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&height=50&lines=Full-Stack+Web+Developer+%F0%9F%9A%80;Next.js+%26+MERN+Specialist+%E2%9A%9B%EF%B8%8F;CSE+Undergrad+%40+RUET+%F0%9F%8E%93;Building+Secure%2C+Scalable+Apps+%F0%9F%94%92" alt="Typing SVG" />
+  </a>
 </div>
 
-<br />
+<hr />
 
 <!-- DYNAMIC TYPING EFFECT -->
 <div align="center">
@@ -70,6 +67,29 @@
 </div>
 
 <br />
+## 📊 Performance Metrics & Activity
+
+<p align="center">
+  <!-- Highly Reliable GitHub Streak Card -->
+  <a href="https://github.com/saikot05">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=saikot05&theme=tokyonight&hide_border=true" alt="Saikot's GitHub Streak" height="150" />
+  </a>
+  
+  <!-- Bulletproof Alternative Profile Stats Card -->
+  <a href="https://github.com/saikot05">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saikot05&theme=tokyonight" alt="Saikot's GitHub Stats" height="150" />
+  </a>
+</p>
+
+<p align="center">
+  <!-- Bulletproof Alternative Top Languages Pie-Chart -->
+  <a href="https://github.com/saikot05">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saikot05&theme=tokyonight" alt="Top Languages" height="150" />
+  </a>
+</p>
+
+---
+
 
 ```js
 const candidateProfile = {
@@ -91,3 +111,4 @@ const candidateProfile = {
     "Data Structures & Algorithms", "Version Control (Git/GitHub)", "CI/CD Deployment (Vercel)"
   ]
 };
+
