@@ -74,66 +74,30 @@
 ---
 
 
+## 📊 GitHub Streak
 
-## 📊 Github Streak
+<p align="center">
+  <!-- Highly Reliable GitHub Streak Card -->
+  <a href="https://github.com/saikot05">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=saikot05&theme=tokyonight&hide_border=true" alt="Saikot's GitHub Streak" height="150" />
+  </a>
+  
+  <!-- Bulletproof Alternative Profile Stats Card -->
+  <a href="https://github.com/saikot05">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saikot05&theme=tokyonight" alt="Saikot's GitHub Stats" height="150" />
+  </a>
+</p>
 
-
-
-<div align="center">
-
-  <table border="0" cellspacing="0" cellpadding="0">
-
-    <tr>
-
-      <td align="center" valign="middle">
-
-        <a href="https://github.com/saikot05">
-
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=saikot05&theme=tokyonight&hide_border=true" alt="Saikot's GitHub Streak" height="165" />
-
-        </a>
-
-      </td>
-
-      <td align="center" valign="middle">
-
-        <a href="https://github.com/saikot05">
-
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saikot05&theme=tokyonight" alt="Saikot's GitHub Stats" height="165" />
-
-        </a>
-
-      </td>
-
-    </tr>
-
-    <tr>
-
-      <td align="center" valign="middle" colspan="2">
-
-        <br />
-
-        <a href="https://github.com/saikot05">
-
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saikot05&theme=tokyonight" alt="Top Languages" height="165" />
-
-        </a>
-
-      </td>
-
-    </tr>
-
-  </table>
-
-</div>
-
-
-
-<br />
-
-
+<p align="center">
+  <!-- Bulletproof Alternative Top Languages Pie-Chart -->
+  <a href="https://github.com/saikot05">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saikot05&theme=tokyonight" alt="Top Languages" height="150" />
+  </a>
+</p>
 
 ---
+
+
 
 ```js
 const candidateProfile = {
