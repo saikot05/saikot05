@@ -1,6 +1,6 @@
 <!-- TOP BANNER -->
 <div align="center">
-  <img src="[https://i.ibb.co/v4b4fHz/saikot-dev-banner.png](https://i.ibb.co.com/TxM8HX6V/Gemini-Generated-Image-ut64n1ut64n1ut64.png)" alt="Md Saikot Islam - Full-Stack Developer Banner" width="100%" />
+  <img src="https://i.ibb.co/TxM8HX6V/Gemini-Generated-Image-ut64n1ut64n1ut64.png" alt="Md Saikot Islam - Full-Stack Developer Banner" width="100%" />
 </div>
 
 <br />
