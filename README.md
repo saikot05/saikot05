@@ -5,17 +5,35 @@
 
 <br />
 
-<!-- VISITOR COUNTER & DYNAMIC TYPING EFFECT -->
+<!-- BADGES & METRICS -->
 <div align="center">
   <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=saikot05&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=saikot05&label=PROFILE+VIEWS&color=00C2FF&style=for-the-badge&logo=github" alt="Profile Views" />
   
-  <br />
+  &nbsp;&nbsp;
   
-  <!-- Typing SVG Animation -->
+  <!-- Custom Status Badge -->
+  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20COLLABORATION-brightgreen?style=for-the-badge" alt="Status" />
+</div>
+
+<br />
+
+<!-- DYNAMIC TYPING EFFECT -->
+<div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer+%F0%9F%9A%80;Next.js+%26+React+Specialist+%E2%9A%9B%EF%B8%8F;CSE+Student+%40+RUET+%F0%9F%8E%93;Competitive+Programmer+%F0%9F%8F%86;Building+Secure%2C+Scalable+Apps+%F0%9F%94%92" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&height=50&lines=Full-Stack+Web+Developer+%F0%9F%9A%80;Next.js+%26+React+Specialist+%E2%9A%9B%EF%B8%8F;CSE+Student+%40+RUET+%F0%9F%8E%93;Competitive+Programmer+%F0%9F%8F%86;Building+Secure%2C+Scalable+Apps+%F0%9F%94%92" alt="Typing SVG" />
   </a>
+</div>
+
+<br />
+
+<!-- BRIEF INTRODUCTION -->
+<div align="center">
+  <h3>👋 Hello, World! Welcome to my digital space.</h3>
+  <p align="center">
+    I am a passionate software engineer focused on building robust, scalable, and user-centric web applications. <br />
+    Constantly exploring new technologies, solving algorithmic puzzles, and turning complex problems into elegant code.
+  </p>
 </div>
 
 <hr />
