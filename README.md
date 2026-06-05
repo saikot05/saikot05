@@ -1,19 +1,9 @@
 <!-- TOP BANNER -->
 <div align="center">
-  <img src="https://i.ibb.co/TxM8HX6V/Gemini-Generated-Image-ut64n1ut64n1ut64.png" alt="Md Saikot Islam - Full-Stack Developer Banner" width="100%" />
+  <img src="https://i.ibb.co/TxM8HX6/Gemini-Generated-Image-ut64n1ut64n1ut64.png" alt="Md Saikot Islam - Full-Stack Developer Banner" width="100%" />
 </div>
 
 <br />
-
-
-<!-- DYNAMIC TYPING EFFECT -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&height=50&lines=Full-Stack+Web+Developer+%F0%9F%9A%80;Next.js+%26+MERN+Specialist+%E2%9A%9B%EF%B8%8F;CSE+Undergrad+%40+RUET+%F0%9F%8E%93;Building+Secure%2C+Scalable+Apps+%F0%9F%94%92" alt="Typing SVG" />
-  </a>
-</div>
-
-<hr />
 
 <!-- DYNAMIC TYPING EFFECT -->
 <div align="center">
@@ -67,29 +57,39 @@
 </div>
 
 <br />
-## 📊 Performance Metrics & Activity
-
-<p align="center">
-  <!-- Highly Reliable GitHub Streak Card -->
-  <a href="https://github.com/saikot05">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=saikot05&theme=tokyonight&hide_border=true" alt="Saikot's GitHub Streak" height="150" />
-  </a>
-  
-  <!-- Bulletproof Alternative Profile Stats Card -->
-  <a href="https://github.com/saikot05">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saikot05&theme=tokyonight" alt="Saikot's GitHub Stats" height="150" />
-  </a>
-</p>
-
-<p align="center">
-  <!-- Bulletproof Alternative Top Languages Pie-Chart -->
-  <a href="https://github.com/saikot05">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saikot05&theme=tokyonight" alt="Top Languages" height="150" />
-  </a>
-</p>
 
 ---
 
+## 📊 Performance Metrics & Activity
+
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td align="center" valign="middle">
+        <a href="https://github.com/saikot05">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=saikot05&theme=tokyonight&hide_border=true" alt="Saikot's GitHub Streak" height="165" />
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="https://github.com/saikot05">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saikot05&theme=tokyonight" alt="Saikot's GitHub Stats" height="165" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle" colspan="2">
+        <br />
+        <a href="https://github.com/saikot05">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saikot05&theme=tokyonight" alt="Top Languages" height="165" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br />
+
+---
 
 ```js
 const candidateProfile = {
@@ -111,4 +111,3 @@ const candidateProfile = {
     "Data Structures & Algorithms", "Version Control (Git/GitHub)", "CI/CD Deployment (Vercel)"
   ]
 };
-
