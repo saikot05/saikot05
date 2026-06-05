@@ -1,7 +1,7 @@
 <!-- TOP BANNER -->
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2a3a,100:2c5364&height=180&section=header&text=Md%20Saikot%20Islam&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Next.js%20%C2%B7%20React%20%C2%B7%20Node.js%20%C2%B7%20MongoDB&descAlignY=58&descSize=15&descColor=99bbcc"
+    src="./bannar.png"
     width="100%"
   />
 </div>
@@ -57,9 +57,9 @@ algorithmic thinking behind every system I build.
 ## Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,cpp,python,nextjs,react,nodejs,express,mongodb&perline=8" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,js,jwt,cpp,python,mongodb&perline=8" />
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=tailwind,git,vercel,figma,vscode,github&perline=8" />
+  <img src="https://skillicons.dev/icons?i=tailwind,git,vercel,netlify,figma,vscode,github&perline=8" />
 </div>
 
 <br/>
@@ -80,25 +80,56 @@ const stack = {
 
 | Project | Stack | Live |
 |---------|-------|------|
-| **[DriveFleet](https://github.com/saikot05/drivefleet)** — Car rental platform with role-based auth, booking flow, and violet/purple UI | Next.js · MongoDB · Better Auth · DaisyUI | [▶ Demo](#) |
-| **[SunCart](https://github.com/saikot05/suncart)** — E-commerce app with Google OAuth, product pages, and cart | Next.js · MongoDB · HeroUI · Vercel | [▶ Demo](#) |
-| **[LifeLine](https://github.com/saikot05/lifeline)** — Blood donation platform with donor feed and appointment booking | Django REST · React · JWT | [▶ Demo](#) |
+| **[DriveFleet](https://github.com/saikot05/drivefleet)** — Car rental platform with role-based auth, booking flow, and violet/purple UI | Next.js · MongoDB · Better Auth · DaisyUI | [▶ Demo](https://drivefleet-client-iota.vercel.app) |
+| **[SunCart](https://github.com/saikot05/suncart)** — E-commerce app with Google OAuth, product pages, and cart | Next.js · MongoDB · HeroUI · Vercel | [▶ Demo](https://sun-cart-8l8y.vercel.app/) |
 
 ---
 
-## GitHub Activity
+
+## 📊 GitHub Streak
+
+
 
 <p align="center">
+
+  <!-- Highly Reliable GitHub Streak Card -->
+
   <a href="https://github.com/saikot05">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=saikot05&theme=dark&hide_border=true&background=0D1117&ring=2c5364&fire=5599bb&currStreakLabel=ffffff" height="160" />
+
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=saikot05&theme=tokyonight&hide_border=true" alt="Saikot's GitHub Streak" height="150" />
+
   </a>
-  &nbsp;
+
+  
+
+  <!-- Bulletproof Alternative Profile Stats Card -->
+
   <a href="https://github.com/saikot05">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saikot05&theme=github_dark" height="160" />
+
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saikot05&theme=tokyonight" alt="Saikot's GitHub Stats" height="150" />
+
   </a>
+
 </p>
 
----
+
+
+<p align="center">
+
+  <!-- Bulletproof Alternative Top Languages Pie-Chart -->
+
+  <a href="https://github.com/saikot05">
+
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saikot05&theme=tokyonight" alt="Top Languages" height="150" />
+
+  </a>
+
+</p>
+
+
+
+--- 
+
 
 <!-- FOOTER -->
 <div align="center">
