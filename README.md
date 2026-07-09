@@ -5,12 +5,24 @@
 
 <br/>
 
+<!-- NAME & DESIGNATION -->
+<h1 align="center">Hi there, I'm Md Saikot Islam 👋</h1>
+<h3 align="center">Full-Stack Developer | Next.js & MERN Stack</h3>
+
 <!-- PROFILE VIEWS + EMAIL BADGE -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saikot05&label=Profile+Views&color=2c5364&style=flat-square" />
   &nbsp;
   <a href="mailto:saikotislam08@gmail.com">
     <img src="https://img.shields.io/badge/Email-saikotislam08@gmail.com-2c5364?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/saikot05">
+    <img src="https://img.shields.io/badge/GitHub-saikot05-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://codeforces.com/profile/Saikot1741">
@@ -57,6 +69,15 @@ algorithmic thinking behind every system I build.
 </td>
 </tr>
 </table>
+
+---
+
+## 🔭 Current Activities
+
+- 🔭 Currently working on **AuraNex** — a full-stack healthcare management platform (Next.js, Express.js, MongoDB, Better Auth, Stripe)
+- 🌱 Exploring advanced patterns in **Next.js App Router** and serverless deployment
+- 💼 Actively applying for **Full-Stack / Frontend Developer** internships and junior roles
+- 📫 Open to collaboration on open-source and full-stack projects
 
 ---
 
