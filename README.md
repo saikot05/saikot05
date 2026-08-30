@@ -10,50 +10,48 @@
 
 <h1 align="center">Hi there, I'm Md Saikot Islam 👋</h1>
 
-<h3 align="center">
-  Full-Stack Developer | Next.js & MERN Stack
-</h3>
+<h3 align="center">Full-Stack Developer | Next.js & MERN Stack</h3>
 
 <p align="center">
   Building scalable web applications with modern technologies, clean architecture, and real-world problem solving.
 </p>
 
-<!-- ===================== PROFILE LINKS ===================== -->
+<!-- ===================== SOCIAL LINKS ===================== -->
 
 <p align="center">
 
+<a href="mailto:saikotislam08@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-2c5364?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+
+ 
+
+<a href="https://www.linkedin.com/in/saikotislam4">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+
+ 
+
+<a href="https://github.com/saikot05">
+  <img src="https://img.shields.io/badge/GitHub-saikot05-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
+
+ 
+
+<a href="https://codeforces.com/profile/Saikot1741">
+  <img src="https://img.shields.io/badge/Codeforces-Saikot1741-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" />
+</a>
+
+ 
+
+<a href="https://www.codechef.com/users/saikot_05">
+  <img src="https://img.shields.io/badge/CodeChef-saikot__05-5B4638?style=flat-square&logo=codechef&logoColor=white" />
+</a>
+
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=saikot05&label=Profile%20Views&color=2c5364&style=flat-square" />
-
- 
-
-  <a href="mailto:saikotislam08@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-2c5364?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-
- 
-
-  <a href="https://www.linkedin.com/in/saikotislam4">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-
- 
-
-  <a href="https://github.com/saikot05">
-    <img src="https://img.shields.io/badge/GitHub-saikot05-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-
- 
-
-  <a href="https://codeforces.com/profile/Saikot1741">
-    <img src="https://img.shields.io/badge/Codeforces-Saikot1741-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" />
-  </a>
-
- 
-
-  <a href="https://www.codechef.com/users/saikot_05">
-    <img src="https://img.shields.io/badge/CodeChef-saikot__05-5B4638?style=flat-square&logo=codechef&logoColor=white" />
-  </a>
-
 </p>
 
 <!-- ===================== TYPING BANNER ===================== -->
@@ -71,13 +69,14 @@
 
 <table>
 <tr>
+
 <td valign="top" width="65%">
 
 I'm a **CSE undergraduate at Rajshahi University of Engineering & Technology (RUET)** passionate about building modern, scalable, and production-ready web applications.
 
 I primarily work with the **MERN / Next.js ecosystem**, focusing on frontend architecture, backend development, database design, authentication, payment systems, and AI-powered applications.
 
-I'm interested in understanding not only **how to build applications**, but also how to design systems that are **secure, maintainable, scalable, and user-focused**.
+I enjoy solving real-world problems through software while continuously improving my understanding of **system design, scalability, and clean architecture**.
 
 ### ⚡ What I Do
 
@@ -87,23 +86,24 @@ I'm interested in understanding not only **how to build applications**, but also
 * 💳 Integrate payment and MFS gateways
 * 🤖 Explore **AI/ML, Generative AI & RAG**
 * 🧠 Practice **Data Structures & Algorithms**
-* 🌐 Build and deploy production-ready applications
+* ☁️ Deploy applications using modern cloud platforms
 
-### 🎯 Currently Looking For
+### 🎯 Open To
 
 **Internships · Junior Developer Roles · Open-Source Collaboration**
-
-### 📬 Contact
-
-**Email:** [saikotislam08@gmail.com](mailto:saikotislam08@gmail.com)
 
 </td>
 
 <td valign="middle" width="35%" align="center">
 
-<img src="https://raw.githubusercontent.com/saikot05/saikot05/main/10_coding_dribbble.gif" width="100%" alt="Coding Animation" />
+<img
+src="https://raw.githubusercontent.com/saikot05/saikot05/main/10_coding_dribbble.gif"
+width="100%"
+alt="Coding Animation"
+/>
 
 </td>
+
 </tr>
 </table>
 
@@ -111,12 +111,12 @@ I'm interested in understanding not only **how to build applications**, but also
 
 # 🔭 Current Activities
 
-* 🔨 Building **AuraNex**, a full-stack healthcare management platform
+* 🔨 Working on **AuraNex** — a full-stack healthcare management platform
 * 🌱 Deepening my knowledge of **Next.js App Router & Backend Architecture**
-* ☁️ Learning more about **deployment, serverless architecture & scalability**
-* 🤖 Exploring **AI/ML, Generative AI, LLM applications & RAG**
+* ☁️ Exploring **deployment, serverless architecture & scalability**
+* 🤖 Learning **AI/ML, Generative AI, LLM applications & RAG**
 * 🧠 Improving **DSA & Competitive Programming**
-* 💼 Actively looking for **Full-Stack / Frontend Developer internships**
+* 💼 Looking for **Full-Stack / Frontend Developer internships**
 * 🤝 Open to interesting **open-source and collaborative projects**
 
 ---
@@ -125,33 +125,27 @@ I'm interested in understanding not only **how to build applications**, but also
 
 ### 🎨 Frontend
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind&perline=5" />
-
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind" />
+</p>
 
 **Next.js · React.js · TypeScript · JavaScript · Tailwind CSS · DaisyUI · HeroUI · React Router · Context API**
 
 ### ⚙️ Backend
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi&perline=4" />
-
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi" />
+</p>
 
 **Node.js · Express.js · Django · FastAPI · RESTful APIs**
 
 ### 🗄️ Database
 
-<div align="center">
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=mongodb&perline=1" />
-
-</div>
-
-**MongoDB · Mongoose ODM · MongoDB Atlas**
+**MongoDB · Mongoose · MongoDB Atlas**
 
 ### 🔐 Authentication & Security
 
@@ -163,27 +157,17 @@ I'm interested in understanding not only **how to build applications**, but also
 
 ### 🤖 AI / GenAI
 
-**Vercel AI SDK · LLM Applications · RAG · AI-powered Features**
+**Vercel AI SDK · LLM Applications · RAG · Generative AI**
 
-### 💻 Programming Languages
+### 💻 Languages & Tools
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,cpp,c,python&perline=5" />
-
-</div>
-
-### 🔧 Tools & Platforms
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify&perline=6" />
-
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,cpp,c,python,git,github,vscode,figma,vercel,netlify" />
+</p>
 
 ---
 
-# 🧩 My Development Stack
+# 🧩 Development Stack
 
 ```javascript
 const saikot = {
@@ -241,7 +225,7 @@ const saikot = {
   ],
 
   currentlyLearning: [
-    "Advanced System Design",
+    "System Design",
     "AI/ML",
     "RAG",
     "Scalable Backend Architecture"
@@ -258,31 +242,33 @@ const saikot = {
 
 <td width="50%" valign="top">
 
-### 🚗 DriveFleet
+<h3>🚗 DriveFleet</h3>
 
 A modern **car rental platform** featuring role-based authentication, booking management, and a responsive violet/purple themed interface.
 
-**Tech:**
-`Next.js` · `MongoDB` · `Better Auth` · `DaisyUI`
+**Stack**
 
-🔗 **[GitHub Repository](https://github.com/saikot05/drivefleet)**
+`Next.js` `MongoDB` `Better Auth` `DaisyUI`
 
-🌐 **[Live Demo](https://drivefleet-client-iota.vercel.app)**
+🔗 <a href="https://github.com/saikot05/drivefleet">GitHub Repository</a>
+
+🌐 <a href="https://drivefleet-client-iota.vercel.app">Live Demo</a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🛒 SunCart
+<h3>🛒 SunCart</h3>
 
 A modern **e-commerce application** with Google OAuth authentication, product browsing, cart management, and responsive UI.
 
-**Tech:**
-`Next.js` · `MongoDB` · `HeroUI` · `Vercel`
+**Stack**
 
-🔗 **[GitHub Repository](https://github.com/saikot05/suncart)**
+`Next.js` `MongoDB` `HeroUI` `Vercel`
 
-🌐 **[Live Demo](https://sun-cart-8l8y.vercel.app/)**
+🔗 <a href="https://github.com/saikot05/suncart">GitHub Repository</a>
+
+🌐 <a href="https://sun-cart-8l8y.vercel.app/">Live Demo</a>
 
 </td>
 
@@ -292,12 +278,13 @@ A modern **e-commerce application** with Google OAuth authentication, product br
 
 <td width="50%" valign="top">
 
-### 🏥 AuraNex
+<h3>🏥 AuraNex</h3>
 
-A full-stack healthcare management platform designed around modern authentication, backend architecture, and payment workflows.
+A full-stack **healthcare management platform** focused on modern authentication, backend architecture, and payment workflows.
 
-**Tech:**
-`Next.js` · `Express.js` · `MongoDB` · `Better Auth` · `Stripe`
+**Stack**
+
+`Next.js` `Express.js` `MongoDB` `Better Auth` `Stripe`
 
 🚧 **Currently Developing**
 
@@ -305,39 +292,20 @@ A full-stack healthcare management platform designed around modern authenticatio
 
 <td width="50%" valign="top">
 
-### 🩸 LifeLine
+<h3>🩸 LifeLine</h3>
 
-A blood donation platform focused on connecting donors with people in emergency situations using location-based donor discovery.
+A blood donation platform designed to connect donors with people in emergency situations using location-based donor discovery.
 
-**Tech:**
-`React` · `Django` · `REST API` · `Maps`
+**Stack**
 
-🚧 **Academic / CSE Project**
+`React` `Django` `REST API` `Maps`
+
+🎓 **CSE Academic Project**
 
 </td>
 
 </tr>
 </table>
-
----
-
-# 🧠 Competitive Programming
-
-I regularly practice **Data Structures & Algorithms** to improve problem-solving, algorithmic thinking, and competitive programming skills.
-
-<p align="center">
-
-<a href="https://codeforces.com/profile/Saikot1741">
-  <img src="https://img.shields.io/badge/Codeforces-Saikot1741-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-</a>
-
- 
-
-<a href="https://www.codechef.com/users/saikot_05">
-  <img src="https://img.shields.io/badge/CodeChef-saikot__05-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-</a>
-
-</p>
 
 ---
 
@@ -348,24 +316,22 @@ I regularly practice **Data Structures & Algorithms** to improve problem-solving
 <a href="https://github.com/saikot05">
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=saikot05&theme=tokyonight&hide_border=true"
-    alt="Saikot's GitHub Streak"
+    alt="GitHub Streak"
+    height="170"
+  />
+</a>
+
+<a href="https://github.com/saikot05">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saikot05&theme=tokyonight"
+    alt="GitHub Profile Details"
     height="170"
   />
 </a>
 
 </p>
 
-<p align="center">
-
-<a href="https://github.com/saikot05">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saikot05&theme=tokyonight"
-    alt="Saikot's GitHub Profile Details"
-    width="95%"
-  />
-</a>
-
-</p>
+<br/>
 
 <p align="center">
 
@@ -376,8 +342,6 @@ I regularly practice **Data Structures & Algorithms** to improve problem-solving
     height="180"
   />
 </a>
-
-  
 
 <a href="https://github.com/saikot05">
   <img
@@ -391,7 +355,7 @@ I regularly practice **Data Structures & Algorithms** to improve problem-solving
 
 ---
 
-# 📈 GitHub Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -405,41 +369,13 @@ alt="GitHub Contribution Graph"
 
 ---
 
-# 🤝 Let's Connect
+# 💙 Thanks for Visiting!
 
 <p align="center">
 
-I'm always interested in discussing **Web Development, AI/ML, Open Source, System Design, and interesting engineering ideas.**
-
-<br/>
-
-<a href="mailto:saikotislam08@gmail.com">
-  <img src="https://img.shields.io/badge/Email-saikotislam08@gmail.com-2c5364?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
- 
-
-<a href="https://www.linkedin.com/in/saikotislam4">
-  <img src="https://img.shields.io/badge/LinkedIn-Md.%20Saikot%20Islam-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
- 
-
-<a href="https://github.com/saikot05">
-  <img src="https://img.shields.io/badge/GitHub-saikot05-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+### Build. Learn. Solve. Repeat. 🚀
 
 </p>
-
----
-
-<div align="center">
-
-### 💙 Thanks for visiting my profile!
-
-**"Build. Learn. Solve. Repeat."**
-
-</div>
 
 <!-- ===================== FOOTER ===================== -->
 
