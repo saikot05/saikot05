@@ -1,147 +1,160 @@
-<!-- ===================== HERO ===================== -->
-
+<!-- TOP BANNER -->
 <div align="center">
-
-  <img src="./bannar.png" width="100%" alt="Md Saikot Islam - Full Stack Developer" />
-
-  <br/>
-  <br/>
-
-  <h1>Hi, I'm Md Saikot Islam 👋</h1>
-
-  <h3>Full-Stack Developer · Next.js · MERN · TypeScript</h3>
-
-  <p>
-    I build secure, scalable and production-ready web applications.
-  </p>
-
-  <br/>
-
-  <a href="https://saikot-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-2c5364?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:saikotislam08@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-2c5364?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <br/>
-  <br/>
-
-  <img src="https://komarev.com/ghpvc/?username=saikot05&label=Profile%20Views&color=2c5364&style=flat-square" />
-
+  <img src="./bannar.png" width="100%" alt="Md Saikot Islam Banner" />
 </div>
 
----
+<br/>
 
-## 👨‍💻 About Me
+<!-- NAME & DESIGNATION -->
+<h1 align="center">Hi there, I'm Md Saikot Islam 👋</h1>
+<h3 align="center">Full-Stack Developer | Next.js & MERN Stack</h3>
 
-I'm a **CSE undergraduate at Rajshahi University of Engineering & Technology (RUET)** and a Full-Stack Developer focused on building modern, secure and scalable web applications.
-
-My primary focus is the **Next.js + MERN ecosystem**, with hands-on experience in frontend architecture, REST APIs, authentication, database design, payment integration and deployment.
-
-- 🚀 Building full-stack applications with **Next.js, React, Node.js & MongoDB**
-- 🔐 Interested in **secure authentication, authorization & scalable architecture**
-- 🧩 Strong foundation in **C/C++ and Data Structures & Algorithms**
-- ⚡ Practicing competitive programming on **Codeforces & CodeChef**
-- 🌱 Currently exploring **advanced Next.js, system design and AI/ML**
-- 💼 Open to **Full-Stack / Frontend internships and junior developer roles**
-- 📍 Based in Bangladesh
-
----
-
-## 🛠️ Tech Stack
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css" />
+<!-- PROFILE VIEWS + EMAIL BADGE -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saikot05&label=Profile+Views&color=2c5364&style=flat-square" />
+  &nbsp;
+  <a href="mailto:saikotislam08@gmail.com">
+    <img src="https://img.shields.io/badge/Email-saikotislam08@gmail.com-2c5364?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/saikotislam4">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/saikot05">
+    <img src="https://img.shields.io/badge/GitHub-saikot05-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://codeforces.com/profile/Saikot1741">
+    <img src="https://img.shields.io/badge/Codeforces-Saikot1741-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.codechef.com/users/saikot_05">
+    <img src="https://img.shields.io/badge/CodeChef-saikot__05-5B4638?style=flat-square&logo=codechef&logoColor=white" />
+  </a>
 </p>
 
-**Next.js · React · TypeScript · JavaScript · Tailwind CSS · DaisyUI · HeroUI**
-
-### Backend & APIs
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+<!-- TYPING BANNER -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=5599bb&center=true&vCenter=true&width=620&height=45&lines=Full-Stack+Engineer+%7C+Next.js+%2F+MERN;Open+to+internships+%26+junior+roles;Competitive+programmer+on+Codeforces+%26+CodeChef" />
 </p>
-
-**Node.js · Express.js · REST APIs**
-
-### Database & Authentication
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb" />
-</p>
-
-**MongoDB · Mongoose · MongoDB Atlas · Better Auth · JWT · Google OAuth 2.0**
-
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts" />
-</p>
-
-**C · C++ · JavaScript · TypeScript · Python**
-
-### Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,figma" />
-</p>
-
-**Git · GitHub · VS Code · Vercel · Netlify · Figma**
 
 ---
 
-## 🚀 Featured Projects
+## About
 
-### 🔹 AuraNex
+CSE undergrad at **Rajshahi University of Engineering & Technology (RUET)** building full-stack web applications with a focus on secure authentication, clean architecture, scalable APIs, and real-world deployment.
 
-**Full-Stack Healthcare Management Platform**
+<table border="0">
+<tr>
+<td valign="top" width="65%">
 
-> A modern full-stack platform designed around secure authentication, role-based workflows and real-world application architecture.
+I specialize in the **MERN / Next.js** ecosystem — from Next.js App Router and REST API design to MongoDB schema modeling and authentication workflows with Better Auth, JWT, and Google OAuth 2.0.
 
-**Tech:** Next.js · Express.js · MongoDB · Better Auth · Stripe
+I enjoy building practical applications that combine **modern frontend architecture, robust backend systems, database design, authentication, payments, and AI-powered features**.
 
----
+Competitive programming on **Codeforces** and **CodeChef** strengthens the algorithmic thinking and problem-solving skills behind the systems I build.
 
-### 🔹 DriveFleet
+- ⚔️ **Competitive Programming:** [Codeforces — Saikot1741](https://codeforces.com/profile/Saikot1741) · [CodeChef — saikot_05](https://www.codechef.com/users/saikot_05)
+- 🎯 **Open to:** Internships, junior developer roles & open-source collaboration
+- 📬 **Contact:** [saikotislam08@gmail.com](mailto:saikotislam08@gmail.com)
 
-**Car Rental & Booking Platform**
+</td>
+<td valign="top" width="35%" align="center">
 
-> Full-stack car rental platform featuring authentication, role-based access control, vehicle management and booking workflows.
+<img src="https://raw.githubusercontent.com/saikot05/saikot05/main/10_coding_dribbble.gif" width="100%" style="border-radius:8px" />
 
-**Tech:** Next.js · MongoDB · Better Auth · DaisyUI
-
-🔗 [Repository](https://github.com/saikot05/drivefleet) · [Live Demo](https://drivefleet-client-iota.vercel.app)
-
----
-
-### 🔹 SunCart
-
-**Modern E-Commerce Platform**
-
-> E-commerce application with product browsing, cart management, authentication and Google OAuth integration.
-
-**Tech:** Next.js · MongoDB · HeroUI · Vercel
-
-🔗 [Repository](https://github.com/saikot05/suncart) · [Live Demo](https://sun-cart-8l8y.vercel.app/)
+</td>
+</tr>
+</table>
 
 ---
 
-## 💡 What I Work With
+## 🔭 Current Activities
 
-```text
-Frontend        → Next.js, React, TypeScript, Tailwind CSS
-Backend         → Node.js, Express.js, REST APIs
-Database        → MongoDB, Mongoose, Atlas
-Authentication  → Better Auth, JWT, Google OAuth
-Payments        → Stripe
-Deployment      → Vercel, Netlify
-Version Control → Git, GitHub
-Algorithms      → C++, Data Structures & Algorithms
+- 🌱 Exploring advanced patterns in **Next.js App Router**, scalable backend architecture, and serverless deployment
+- 🤖 Exploring **AI/ML, Generative AI, RAG, and AI-powered full-stack applications**
+- 🔭 Working on **GreenPulse AI** — an AI-powered ESG & carbon intelligence platform
+- 🏥 Developing **AuraNex** — a full-stack healthcare management platform with secure role-based workflows and Stripe integration
+- 💼 Actively applying for **Full-Stack / Frontend Developer** internships and junior roles
+- 📫 Open to collaboration on open-source and full-stack projects
+
+---
+
+## Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,express,mongodb,python&perline=8" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=tailwind,django,fastapi,cpp,c,git,github,vscode&perline=8" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,figma&perline=8" />
+</div>
+
+<br/>
+
+```js
+const stack = {
+  frontend: [
+    "Next.js (App Router)",
+    "React.js",
+    "TypeScript",
+    "JavaScript (ES6+)",
+    "Tailwind CSS",
+    "DaisyUI",
+    "HeroUI",
+    "React Router",
+    "Context API"
+  ],
+
+  backend: [
+    "Node.js",
+    "Express.js",
+    "Django",
+    "FastAPI",
+    "RESTful APIs"
+  ],
+
+  database: [
+    "MongoDB",
+    "Mongoose ODM",
+    "MongoDB Atlas",
+    "SQLite"
+  ],
+
+  auth: [
+    "Better Auth",
+    "JWT",
+    "Google OAuth 2.0",
+    "Role-Based Access Control"
+  ],
+
+  payments: [
+    "Stripe",
+    "MFS Payment Gateway"
+  ],
+
+  ai: [
+    "Vercel AI SDK",
+    "LLM Applications",
+    "RAG",
+    "AI-powered Features"
+  ],
+
+  tools: [
+    "Git",
+    "GitHub",
+    "Vercel",
+    "Netlify",
+    "Figma",
+    "VS Code"
+  ],
+
+  languages: [
+    "JavaScript",
+    "TypeScript",
+    "C++",
+    "C",
+    "Python"
+  ]
+};
