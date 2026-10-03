@@ -154,7 +154,6 @@ const saikot = {
 
   currentlyLearning: [
     "System Design",
-    "AI/ML",
     "RAG",
     "Scalable Backend Architecture"
   ]
