@@ -282,20 +282,6 @@ A blood donation platform designed to connect donors with people in emergency si
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=saikot05&theme=tokyo-night&hide_border=true"
-width="95%"
-alt="GitHub Contribution Graph"
-/>
-
-</p>
-
----
-
 # 💙 Thanks for Visiting!
 
 <p align="center">
