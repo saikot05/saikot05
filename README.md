@@ -75,7 +75,7 @@ alt="Coding Animation"
   <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi" />
 </p>
 
-**Node.js · Express.js · Django · FastAPI · RESTful APIs**
+**Node.js · Express.js · RESTful APIs**
 
 ### 🗄️ Database
 
@@ -83,7 +83,7 @@ alt="Coding Animation"
   <img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
-**MongoDB · Mongoose · MongoDB Atlas**
+**MongoDB · Mongoose · MongoDB Atlas **
 
 ### 🔐 Authentication & Security
 
@@ -124,8 +124,6 @@ const saikot = {
   backend: [
     "Node.js",
     "Express.js",
-    "Django",
-    "FastAPI",
     "REST APIs"
   ],
 
@@ -145,13 +143,6 @@ const saikot = {
   payments: [
     "Stripe",
     "MFS Gateway"
-  ],
-
-  ai: [
-    "Vercel AI SDK",
-    "LLM Applications",
-    "RAG",
-    "Generative AI"
   ],
 
   languages: [
