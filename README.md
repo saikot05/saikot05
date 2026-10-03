@@ -21,7 +21,7 @@ I enjoy solving real-world problems through software while continuously improvin
 * 🔐 Implement secure authentication and **RBAC**
 * 🗄️ Design and work with **MongoDB databases**
 * 💳 Integrate payment and MFS gateways
-* 🤖 Explore **AI/ML, Generative AI & RAG**
+* 🤖 Explore ** Generative AI & RAG**
 * 🧠 Practice **Data Structures & Algorithms**
 * ☁️ Deploy applications using modern cloud platforms
 
@@ -51,7 +51,7 @@ alt="Coding Animation"
 * 🔨 Working on **AuraNex** — a full-stack healthcare management platform
 * 🌱 Deepening my knowledge of **Next.js App Router & Backend Architecture**
 * ☁️ Exploring **deployment, serverless architecture & scalability**
-* 🤖 Learning **AI/ML, Generative AI, LLM applications & RAG**
+* 🤖 Learning ** Generative AI, LLM applications & RAG**
 * 🧠 Improving **DSA & Competitive Programming**
 * 💼 Looking for **Full-Stack / Frontend Developer internships**
 * 🤝 Open to interesting **open-source and collaborative projects**
