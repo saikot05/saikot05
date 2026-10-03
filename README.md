@@ -72,7 +72,7 @@ alt="Coding Animation"
 ### ⚙️ Backend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 **Node.js · Express.js · RESTful APIs**
