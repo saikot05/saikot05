@@ -1,303 +1,201 @@
-<!-- ===================== TOP BANNER ===================== -->
+<div align="center">
 
-<div align="center"> <img src="./bannar.png" width="100%" alt="Md Saikot Islam Banner" /> </div> <br/> <!-- NAME & DESIGNATION --> <h1 align="center">Hi there, I'm Md Saikot Islam 👋</h1> <h3 align="center">Full-Stack Developer | Next.js & MERN Stack</h3> <!-- PROFILE VIEWS + EMAIL BADGE --> <p align="center"> <img src="https://komarev.com/ghpvc/?username=saikot05&label=Profile+Views&color=2c5364&style=flat-square" /> &nbsp; <a href="mailto:saikotislam08@gmail.com"> <img src="https://img.shields.io/badge/Email-saikotislam08@gmail.com-2c5364?style=flat-square&logo=gmail&logoColor=white" /> </a> &nbsp; <a href="https://www.linkedin.com/in/saikotislam4"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" /> </a> &nbsp; <a href="https://github.com/saikot05"> <img src="https://img.shields.io/badge/GitHub-saikot05-181717?style=flat-square&logo=github&logoColor=white" /> </a> &nbsp; <a href="https://codeforces.com/profile/Saikot1741"> <img src="https://img.shields.io/badge/Codeforces-Saikot1741-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" /> </a> &nbsp; <a href="https://www.codechef.com/users/saikot_05"> <img src="https://img.shields.io/badge/CodeChef-saikot__05-5B4638?style=flat-square&logo=codechef&logoColor=white" /> </a> </p> <!-- TYPING BANNER --> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=5599bb&center=true&vCenter=true&width=620&height=45&lines=Full-Stack+Engineer+%7C+Next.js+%2F+MERN;Open+to+internships+%26+junior+roles;Competitive+programmer+on+Codeforces+%26+CodeChef" /> </p>
+<img src="./bannar.png" width="100%" alt="Md Saikot Islam Banner" />
 
-# 👨‍💻 About Me
+# Md Saikot Islam
 
-<table>
-<tr>
+**Full Stack Developer | Next.js and MERN Stack**
 
-<td valign="top" width="65%">
-
-I'm a **CSE undergraduate at Rajshahi University of Engineering & Technology (RUET)** passionate about building modern, scalable, and production-ready web applications.
-
-I primarily work with the **MERN / Next.js ecosystem**, focusing on frontend architecture, backend development, database design, authentication, payment systems, and AI-powered applications.
-
-I enjoy solving real-world problems through software while continuously improving my understanding of **system design, scalability, and clean architecture**.
-
-### ⚡ What I Do
-
-* 🚀 Build full-stack applications with **Next.js & MERN**
-* 🔐 Implement secure authentication and **RBAC**
-* 🗄️ Design and work with **MongoDB databases**
-* 💳 Integrate payment and MFS gateways
-* 🤖 Explore ** Generative AI & RAG**
-* 🧠 Practice **Data Structures & Algorithms**
-* ☁️ Deploy applications using modern cloud platforms
-
-### 🎯 Open To
-
-**Internships · Junior Developer Roles · Open-Source Collaboration**
-
-</td>
-
-<td valign="middle" width="35%" align="center">
-
-<img
-src="https://raw.githubusercontent.com/saikot05/saikot05/main/10_coding_dribbble.gif"
-width="100%"
-alt="Coding Animation"
-/>
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🔭 Current Activities
-
-* 🔨 Working on **AuraNex** — a full-stack healthcare management platform
-* 🌱 Deepening my knowledge of **Next.js App Router & Backend Architecture**
-* ☁️ Exploring **deployment, serverless architecture & scalability**
-* 🤖 Learning ** Generative AI, LLM applications & RAG**
-* 🧠 Improving **DSA & Competitive Programming**
-* 💼 Looking for **Full-Stack / Frontend Developer internships**
-* 🤝 Open to interesting **open-source and collaborative projects**
-
----
-
-# 🛠️ Tech Stack
-
-### 🎨 Frontend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind" />
-</p>
-
-**Next.js · React.js · TypeScript · JavaScript · Tailwind CSS · DaisyUI · HeroUI · React Router · Context API**
-
-### ⚙️ Backend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-**Node.js · Express.js · RESTful APIs**
-
-### 🗄️ Database
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb" />
-</p>
-
-**MongoDB · Mongoose · MongoDB Atlas **
-
-### 🔐 Authentication & Security
-
-**Better Auth · JWT · Google OAuth 2.0 · Role-Based Access Control**
-
-### 💳 Payments
-
-**Stripe · MFS Payment Gateway**
-
-### 🤖 AI / GenAI
-
-**Vercel AI SDK · LLM Applications · RAG · Generative AI**
-
-### 💻 Languages & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,cpp,c,python,git,github,vscode,figma,vercel,netlify" />
-</p>
-
----
-
-# 🧩 Development Stack
-
-```javascript
-const saikot = {
-  role: "Full-Stack Developer",
-
-  frontend: [
-    "Next.js",
-    "React.js",
-    "TypeScript",
-    "JavaScript",
-    "Tailwind CSS",
-    "DaisyUI",
-    "HeroUI"
-  ],
-
-  backend: [
-    "Node.js",
-    "Express.js",
-    "REST APIs"
-  ],
-
-  database: [
-    "MongoDB",
-    "Mongoose",
-    "MongoDB Atlas"
-  ],
-
-  authentication: [
-    "Better Auth",
-    "JWT",
-    "Google OAuth 2.0",
-    "RBAC"
-  ],
-
-  payments: [
-    "Stripe",
-    "MFS Gateway"
-  ],
-
-  languages: [
-    "JavaScript",
-    "TypeScript",
-    "C++",
-    "C",
-    "Python"
-  ],
-
-  currentlyLearning: [
-    "System Design",
-    "RAG",
-    "Scalable Backend Architecture"
-  ]
-};
-```
-
----
-
-# 🚀 Featured Projects
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>🚗 DriveFleet</h3>
-
-A modern **car rental platform** featuring role-based authentication, booking management, and a responsive violet/purple themed interface.
-
-**Stack**
-
-`Next.js` `MongoDB` `Better Auth` `DaisyUI`
-
-🔗 <a href="https://github.com/saikot05/drivefleet">GitHub Repository</a>
-
-🌐 <a href="https://drivefleet-client-iota.vercel.app">Live Demo</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>🛒 SunCart</h3>
-
-A modern **e-commerce application** with Google OAuth authentication, product browsing, cart management, and responsive UI.
-
-**Stack**
-
-`Next.js` `MongoDB` `HeroUI` `Vercel`
-
-🔗 <a href="https://github.com/saikot05/suncart">GitHub Repository</a>
-
-🌐 <a href="https://sun-cart-8l8y.vercel.app/">Live Demo</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>🏥 AuraNex</h3>
-
-A full-stack **healthcare management platform** focused on modern authentication, backend architecture, and payment workflows.
-
-**Stack**
-
-`Next.js` `Express.js` `MongoDB` `Better Auth` `Stripe`
-
-🚧 **Currently Developing**
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>🩸 LifeLine</h3>
-
-A blood donation platform designed to connect donors with people in emergency situations using location-based donor discovery.
-
-**Stack**
-
-`React` `Django` `REST API` `Maps`
-
-🎓 **CSE Academic Project**
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 📊 GitHub Activity
-
-<p align="center">
-
-<a href="https://github.com/saikot05">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=saikot05&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-    height="170"
-  />
-</a>
-
-<a href="https://github.com/saikot05">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saikot05&theme=tokyonight"
-    alt="GitHub Profile Details"
-    height="170"
-  />
-</a>
-
-</p>
+🎓 CSE undergraduate at Rajshahi University of Engineering & Technology (RUET)
 
 <br/>
 
-<p align="center">
+<a href="mailto:saikotislam08@gmail.com"><img src="https://img.shields.io/badge/Email-saikotislam08@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/saikotislam4"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/saikot05"><img src="https://img.shields.io/github/followers/saikot05?label=Followers&style=for-the-badge&logo=github&color=181717" /></a>
+<a href="https://codeforces.com/profile/Saikot1741"><img src="https://img.shields.io/badge/Codeforces-Saikot1741-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+<a href="https://www.codechef.com/users/saikot_05"><img src="https://img.shields.io/badge/CodeChef-saikot__05-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
 
-<a href="https://github.com/saikot05">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saikot05&theme=tokyonight"
-    alt="Most Used Languages"
-    height="180"
-  />
-</a>
+![Open to Work](https://img.shields.io/badge/Open_to_Work-Internships_&_Junior_Roles-2ea44f?style=for-the-badge)
 
-<a href="https://github.com/saikot05">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saikot05&theme=tokyonight"
-    alt="Repositories Per Language"
-    height="180"
-  />
-</a>
-
-</p>
+</div>
 
 ---
 
-# 💙 Thanks for Visiting!
+## 👨‍💻 About
 
-<p align="center">
+I build modern web applications with **MERN and Next.js**. I enjoy working on frontend, backend APIs, databases, authentication and payments. I am also learning Generative AI and RAG, and I practice Data Structures and Algorithms through competitive programming.
 
-### Build. Learn. Solve. Repeat. 🚀
+🎯 I am open to Full Stack and Frontend internships, junior developer roles and open source collaboration.
 
-</p>
+## ⚡ What I Do
 
-<!-- ===================== FOOTER ===================== -->
+- 🚀 Build full stack applications with **Next.js and MERN**
+- 🔐 Add secure login and **role based access control**
+- 🗄️ Design and work with **MongoDB** databases
+- 💳 Connect payment and MFS gateways
+- ☁️ Deploy apps on cloud platforms
+- 🧠 Practice **Data Structures and Algorithms**
+
+## 🔭 Currently
+
+- 🏥 Working on **AuraNex**, my full stack healthcare management platform
+- ⚛️ Going deeper into Next.js App Router, backend architecture and deployment
+- 🤖 Learning LLM applications and RAG
+- 🧠 Improving DSA on Codeforces and CodeChef
+
+---
+
+## 🛠️ Tech Stack
+
+### 🎨 Frontend
 
 <div align="center">
 
-<img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0d1117&height=120&section=footer"
-width="100%"
-alt="Footer"
-/>
+<table>
+  <tr>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" /><br/><sub><b>Next.js</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /><br/><sub><b>React</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" /><br/><sub><b>TypeScript</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /><br/><sub><b>JavaScript</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" /><br/><sub><b>Tailwind</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" /><br/><sub><b>HTML</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" /><br/><sub><b>CSS</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/daisyui/5A0EF8" width="48" height="48" alt="DaisyUI" /><br/><sub><b>DaisyUI</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/heroui/006FEE" width="48" height="48" alt="HeroUI" /><br/><sub><b>HeroUI</b></sub></td>
+  </tr>
+</table>
+
+</div>
+
+### ⚙️ Backend & Database
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /><br/><sub><b>Node.js</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" /><br/><sub><b>Express</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /><br/><sub><b>MongoDB</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/mongoose/880000" width="48" height="48" alt="Mongoose" /><br/><sub><b>Mongoose</b></sub></td>
+  </tr>
+</table>
+
+</div>
+
+### 🔐 Auth & Payments
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/jsonwebtokens/D63AFF" width="48" height="48" alt="JWT" /><br/><sub><b>JWT</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/google/4285F4" width="48" height="48" alt="Google OAuth" /><br/><sub><b>Google OAuth</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/stripe/635BFF" width="48" height="48" alt="Stripe" /><br/><sub><b>Stripe</b></sub></td>
+  </tr>
+</table>
+
+</div>
+
+**Also:** Better Auth, Role Based Access Control (RBAC) and MFS Payment Gateway
+
+### 🤖 AI / GenAI
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/vercel/888888" width="48" height="48" alt="Vercel AI SDK" /><br/><sub><b>Vercel AI SDK</b></sub></td>
+  </tr>
+</table>
+
+</div>
+
+### 💻 Languages & Tools
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" /><br/><sub><b>C++</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" /><br/><sub><b>C</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" /><br/><sub><b>Python</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br/><sub><b>Git</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /><br/><sub><b>GitHub</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /><br/><sub><b>VS Code</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" /><br/><sub><b>Figma</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" /><br/><sub><b>Vercel</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="Netlify" /><br/><sub><b>Netlify</b></sub></td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 🏥 AuraNex: Healthcare Management Platform
+A full stack healthcare platform with secure login, role based access, a solid backend and payment flow.
+
+<img src="https://skillicons.dev/icons?i=nextjs" width="32" height="32" alt="Next.js" title="Next.js" /> <img src="https://skillicons.dev/icons?i=express" width="32" height="32" alt="Express" title="Express" /> <img src="https://skillicons.dev/icons?i=mongodb" width="32" height="32" alt="MongoDB" title="MongoDB" /> <img src="https://cdn.simpleicons.org/stripe/635BFF" width="32" height="32" alt="Stripe" title="Stripe" />
+
+**Status:** 🚧 In development
+
+<br/>
+
+### 🚗 DriveFleet: Car Rental Platform
+A car rental app with role based login, booking management and a responsive design.
+
+<img src="https://skillicons.dev/icons?i=nextjs" width="32" height="32" alt="Next.js" title="Next.js" /> <img src="https://skillicons.dev/icons?i=mongodb" width="32" height="32" alt="MongoDB" title="MongoDB" /> <img src="https://cdn.simpleicons.org/daisyui/5A0EF8" width="32" height="32" alt="DaisyUI" title="DaisyUI" />
+
+<a href="https://github.com/saikot05/drivefleet"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://drivefleet-client-iota.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+
+<br/>
+
+### 🛒 SunCart: Ecommerce App
+An ecommerce app with Google login, product browsing, a cart and a responsive design.
+
+<img src="https://skillicons.dev/icons?i=nextjs" width="32" height="32" alt="Next.js" title="Next.js" /> <img src="https://skillicons.dev/icons?i=mongodb" width="32" height="32" alt="MongoDB" title="MongoDB" /> <img src="https://cdn.simpleicons.org/heroui/006FEE" width="32" height="32" alt="HeroUI" title="HeroUI" /> <img src="https://cdn.simpleicons.org/google/4285F4" width="32" height="32" alt="Google OAuth" title="Google OAuth" /> <img src="https://skillicons.dev/icons?i=vercel" width="32" height="32" alt="Vercel" title="Vercel" />
+
+<a href="https://github.com/saikot05/suncart"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://sun-cart-8l8y.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+
+<br/>
+
+### 🩸 LifeLine: Blood Donation Platform
+Connects blood donors with people in emergencies by finding donors near them.
+
+<img src="https://skillicons.dev/icons?i=react" width="32" height="32" alt="React" title="React" /> <img src="https://skillicons.dev/icons?i=django" width="32" height="32" alt="Django" title="Django" />
+
+**Type:** 🎓 CSE academic project
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saikot05&theme=tokyonight" height="170" alt="Profile details" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saikot05&theme=tokyonight&hide_border=true" height="170" alt="GitHub streak" />
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saikot05/saikot05/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saikot05/saikot05/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/saikot05/saikot05/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+**Build. Learn. Solve. Repeat.** 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0d1117&height=100&section=footer" width="100%" alt="Footer" />
 
 </div>
